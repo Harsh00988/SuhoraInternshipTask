@@ -21,6 +21,6 @@ The YOLOv8 model, which is the state-of-the-art model for object detection, was 
 Finally, the trained YOLOv8 model was used to make predictions on the entire test dataset. The predictions were saved at [./runs/detect/predict](./runs/detect/predict).
 
 ### Sample Predictions
-![Prediction 1](./runs/detect/predict/prediction1.jpg)
-![Prediction 2](./runs/detect/predict/prediction2.jpg)
-![Prediction 3](./runs/detect/predict/prediction3.jpg)
+![Prediction 1](./runs/detect/predict/P0001_0_800_8400_9200.jpg)
+![Prediction 2](./runs/detect/predict/P0001_3000_3800_3000_3800.jpg)
+![Prediction 3](./runs/detect/predict/P0001_3600_4400_6600_7400.jpg)

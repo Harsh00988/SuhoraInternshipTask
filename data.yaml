@@ -1,0 +1,6 @@
+train: E:\Suhora\Data\train
+val: E:\Suhora\Data\val
+test: E:\Suhora\Data\test
+
+nc: 1
+names: ["Ship"]

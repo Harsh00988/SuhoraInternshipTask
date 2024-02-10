@@ -1,5 +1,13 @@
 # Suhora Internship Task
 
+### Outputs
+![Prediction 1](./runs/detect/predict/P0001_0_800_8400_9200.jpg)
+
+![Prediction 2](./runs/detect/predict/P0001_3000_3800_3000_3800.jpg)
+
+![Prediction 3](./runs/detect/predict/P0001_3600_4400_6600_7400.jpg)
+
+
 ## Initial Dataset Exploration and Preprocessing
 
 The first step in the Suhora internship task involved loading the dataset, which consisted of 5604 SAR (Synthetic Aperture Radar) images. These images were annotated with both segmentation and bounding box annotations. The initial exploration and preprocessing of the dataset were performed in the Jupyter Notebook located at [./code/InitialWork.ipynb](./Code/InitialWork.ipynb).
@@ -20,7 +28,3 @@ The YOLOv8 model, which is the state-of-the-art model for object detection, was 
 
 Finally, the trained YOLOv8 model was used to make predictions on the entire test dataset. The predictions were saved at [./runs/detect/predict](./runs/detect/predict).
 
-### Sample Predictions
-![Prediction 1](./runs/detect/predict/P0001_0_800_8400_9200.jpg)
-![Prediction 2](./runs/detect/predict/P0001_3000_3800_3000_3800.jpg)
-![Prediction 3](./runs/detect/predict/P0001_3600_4400_6600_7400.jpg)

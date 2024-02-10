@@ -15,6 +15,7 @@ The first step in the task was loading the dataset, which consisted of 5604 SAR 
 ## Conversion to YOLO Annotation Format
 
 To prepare the dataset for training with YOLOv8, the MS COCO annotations were converted to the YOLO annotation format. This conversion was carried out using the script available at [./code/COCOtoYOLO.py](./Code/COCOtoYOLO.py).
+Credits for script: https://github.com/alexmihalyk23/COCO2YOLO
 
 ## Dataset Splitting
 

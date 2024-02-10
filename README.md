@@ -10,7 +10,7 @@
 
 ## Initial Dataset Exploration and Preprocessing
 
-The first step in the Suhora internship task involved loading the dataset, which consisted of 5604 SAR (Synthetic Aperture Radar) images. These images were annotated with both segmentation and bounding box annotations. The initial exploration and preprocessing of the dataset were performed in the Jupyter Notebook located at [./code/InitialWork.ipynb](./Code/InitialWork.ipynb).
+The first step in the task was loading the dataset, which consisted of 5604 SAR (Synthetic Aperture Radar) images. These images were annotated with both segmentation and bounding box annotations. The initial exploration and preprocessing of the dataset were performed in the Jupyter Notebook located at [./code/InitialWork.ipynb](./Code/InitialWork.ipynb).
 
 ## Conversion to YOLO Annotation Format
 
